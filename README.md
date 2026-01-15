@@ -62,4 +62,4 @@ asian-countries-explorer/
 - [Vite](https://vitejs.dev/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-- [styled-componenets](https://styled-components.com/)
+- [styled-components](https://styled-components.com/)
